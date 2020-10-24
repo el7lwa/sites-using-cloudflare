@@ -95,6 +95,8 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [medium.com](http://medium.com)
 - [4chan.org](http://4chan.org)
 - [yelp.com](http://yelp.com)
+- [mtba5i.com](http://mtba5i.com)
+- [el7lwa.com](http://www.el7lwa.com)
 - [okcupid.com](http://okcupid.com)
 - [zendesk.com](http://zendesk.com) ([Zendesk post and updates | no leaked data found](https://support.zendesk.com/hc/en-us/articles/115003535408))
 - [uber.com](http://uber.com)
