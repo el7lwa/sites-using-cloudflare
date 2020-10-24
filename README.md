@@ -63,6 +63,7 @@ Data sources:
  - http://www.crimeflare.com/cfs.html (scrape of all Cloudflare customers)
  - http://www.doesitusecloudflare.com/
 
+
 I'd rather be safe than sorry so I've included any domain here that remotely touches Cloudflare.  **Don't point end-users to this list please, it has too many false positives to be useful for non-analytical purposes**.
 I'm no longer accepting PRs to remove sites from the list, our previous [process to remove sites](https://github.com/pirate/sites-using-cloudflare/issues/213) was error-prone and labor intensive.  The list is now in archive mode, consider it defunct.
 If you think for some reason this will greatly impact you or your users, DM me on twitter.
@@ -95,6 +96,8 @@ You will make users lose trust in many sites, despite there being less than a 1 
 - [medium.com](http://medium.com)
 - [4chan.org](http://4chan.org)
 - [yelp.com](http://yelp.com)
+- [mtba5i.com](https://mtba5i.com)
+- [el7lwa.com](https://www.el7lwa.com)
 - [okcupid.com](http://okcupid.com)
 - [zendesk.com](http://zendesk.com) ([Zendesk post and updates | no leaked data found](https://support.zendesk.com/hc/en-us/articles/115003535408))
 - [uber.com](http://uber.com)
